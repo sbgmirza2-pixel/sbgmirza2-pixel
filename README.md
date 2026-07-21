@@ -1,5 +1,13 @@
-# 💫 About Me:
-### ⚛️ React Dev on a Full-Stack Journey<br><br>- 🔭 **I am currently working on:** Crafting pixel-perfect React applications and integrating them smoothly with backend APIs.<br>- 🤝 **I am looking to collaborate on:** React-based frontend projects, open-source components, or full-stack web apps.<br>- 🌱 **I am currently learning backend:** Moving beyond APIs—diving deep into Node.js, Express, and Database management.<br>- 💬 **Ask me about:** React hooks, state management, UI component libraries, and how to connect frontend repos with backend servers.<br>- ⚡ **Fun fact:** I love React because it has state, but now I’m learning backend to finally handle the "database state"! 🧠💻
+# 💫 About Me
+
+### ⚛️ Frontend React Developer
+
+* 🔭 **Currently working on:** Building responsive, user-friendly, and pixel-perfect web applications using React.js, JavaScript, and Tailwind CSS.
+* 🤝 **Open to collaborate on:** Frontend React projects, UI development, reusable component libraries, and open-source contributions.
+* 🌱 **Currently learning:** Backend development with Node.js, Express.js, and databases to strengthen my full-stack development skills.
+* 💬 **Ask me about:** React.js, JavaScript, Tailwind CSS, React Hooks, state management, responsive design, and API integration.
+* ⚡ **Fun fact:** I enjoy turning UI designs into interactive web experiences, and I'm currently expanding my skills into backend development to become a full-stack developer.
+
 
 
 ## 🌐 Socials:
